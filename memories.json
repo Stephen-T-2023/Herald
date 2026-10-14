@@ -1,0 +1,14 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "content": "User's name is Stephen with the alias Ashborne",
+      "created_at": "2026-07-24T22:15:17.325238"
+    },
+    {
+      "id": 2,
+      "content": "When presenting code changes, show the diff or comparison visually rather than reading out the entire changed code blocks",
+      "created_at": "2026-10-13T22:01:21.015570"
+    }
+  ]
+}
